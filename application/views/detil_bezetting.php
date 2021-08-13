@@ -18,7 +18,7 @@
                                 <thead>
                                 <tr class="first">
                                     <th class="tg-w4n1">NO</th>
-                                    <th class="tg-tilr">REGIONAL WITEL</th>
+                                    <th class="tg-tilr" style="min-width: 150px">REGIONAL WITEL</th>
                                     <th class="tg-w4n1">OBJID</th>
                                     <th class="tg-hjjl">NIK</th>
                                     <th class="tg-w4n1">NAMA</th>

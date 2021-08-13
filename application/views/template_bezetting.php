@@ -397,7 +397,7 @@
               <li class="dropdown nav-item">
                 <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
                   <div class="photo">
-                    <img src="images/img-mike.jpg">
+                    <!--<img src="images/img-mike.jpg">-->
                   </div>
                   <b class="caret d-none d-lg-block d-xl-block"></b>
                   <p class="d-lg-none">
@@ -524,7 +524,6 @@
   <script src="<?= base_url() ?>assets/js/jquery.dataTables.min.js"></script>
   <script src="<?= base_url() ?>assets/js/jszip.min.js"></script>
   <script src="<?= base_url() ?>assets/js/dataTables.buttons.min.js"></script>
-  <script src="<?= base_url() ?>assets/js/pdfmake.min.js"></script>
   <script src="<?= base_url() ?>assets/js/vfs_fonts.js"></script>
   <script src="<?= base_url() ?>assets/js/buttons.html5.min.js"></script>
   <!-- Vector Map plugin, full documentation here: http://jvectormap.com/documentation/ -->
