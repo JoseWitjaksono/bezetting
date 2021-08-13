@@ -114,7 +114,7 @@
         </div>
         <ul class="nav">
           <li class="active">
-            <a href="dashboard.html">
+            <a href="<?= base_url() ?>">
               <i class="tim-icons icon-chart-pie-36"></i>
               <p>Dashboard</p>
             </a>
